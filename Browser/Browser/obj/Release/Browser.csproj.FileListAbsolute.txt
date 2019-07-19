@@ -1,0 +1,14 @@
+C:\Users\Dragon989\source\repos\Browser\Browser\bin\Release\Browser.exe.config
+C:\Users\Dragon989\source\repos\Browser\Browser\bin\Release\Browser.exe
+C:\Users\Dragon989\source\repos\Browser\Browser\bin\Release\Browser.pdb
+C:\Users\Dragon989\source\repos\Browser\Browser\bin\Release\MetroFramework.Design.dll
+C:\Users\Dragon989\source\repos\Browser\Browser\bin\Release\MetroFramework.dll
+C:\Users\Dragon989\source\repos\Browser\Browser\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Dragon989\source\repos\Browser\Browser\obj\Release\Browser.csprojAssemblyReference.cache
+C:\Users\Dragon989\source\repos\Browser\Browser\obj\Release\Browser.Form1.resources
+C:\Users\Dragon989\source\repos\Browser\Browser\obj\Release\Browser.Properties.Resources.resources
+C:\Users\Dragon989\source\repos\Browser\Browser\obj\Release\Browser.csproj.GenerateResource.cache
+C:\Users\Dragon989\source\repos\Browser\Browser\obj\Release\Browser.csproj.CoreCompileInputs.cache
+C:\Users\Dragon989\source\repos\Browser\Browser\obj\Release\Browser.csproj.CopyComplete
+C:\Users\Dragon989\source\repos\Browser\Browser\obj\Release\Browser.exe
+C:\Users\Dragon989\source\repos\Browser\Browser\obj\Release\Browser.pdb
